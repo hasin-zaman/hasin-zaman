@@ -1,13 +1,4 @@
 <h1 align="center">Hi 👋, I'm Hasin</h1>
-<h3 align="center">A passionate full-stack software engineer</h3>
-
-- 🔭 I’m currently working on **Flutter and MERN projects**
-
-- 🌱 I’m currently learning **Three.js**
-
-- 👯 I’m looking to start with **freelance projects**
-
-- 🤝 I’m looking for help with **adopting better coding practices**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
