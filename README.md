@@ -4,7 +4,7 @@
   I'm a Full-Stack Developer with experience in JavaScript, TypeScript, Dart, and Java. I enjoy building scalable and complex projects. I'm constantly learning and love collaborating on exciting projects!
 </p>
 
-<h3 align="center">Contribute to UIlex</h3>
+<h3 align="center">Contribute to <a href="https://github.com/hasin-zaman/uilex">UIlex</a></h3>
 <p align="center">
   UIlex is a community-driven platform for developers to share and discover reusable components, designed to save time and inspire creative solutions. Contributions are always welcome! Feel free to add your components and become a part of our community.
 </p>
