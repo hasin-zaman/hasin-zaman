@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hasin</h1>
 
+[![An image of @hasinzaman's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/hasinzaman)](https://holopin.io/@hasinzaman)
+
 <p align="center">
   I'm a Full-Stack Developer with experience in JavaScript, TypeScript, Dart, and Java. I enjoy building scalable and complex projects. I'm constantly learning and love collaborating on exciting projects!
 </p>
