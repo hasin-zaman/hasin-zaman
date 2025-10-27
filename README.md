@@ -3,12 +3,7 @@
 [![An image of @hasinzaman's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/hasinzaman)](https://holopin.io/@hasinzaman)
 
 <p align="center">
-  I'm a Full-Stack Developer with experience in JavaScript, TypeScript, Dart, and Java. I enjoy building scalable and complex projects. I'm constantly learning and love collaborating on exciting projects!
-</p>
-
-<h3 align="center">Contribute to <a href="https://github.com/hasin-zaman/uilex">UIlex</a></h3>
-<p align="center">
-  UIlex is a community-driven platform for developers to share and discover reusable components, designed to save time and inspire creative solutions. Contributions are always welcome! Feel free to add your components and become a part of our community.
+  I'm a Full-Stack Developer with my main tech stack as Java, Spring Boot, Node.js, Express, TypeScript, React. I enjoy building scalable and complex projects. I'm constantly learning and love collaborating on exciting projects!
 </p>
 
 <h3 align="left">Connect with me:</h3>
@@ -16,10 +11,6 @@
   <a href="https://linkedin.com/in/hasin-zaman" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hasin-zaman" height="30" width="40" />
   </a>
-  <a href="https://hasin-zaman.vecel.app" target="blank">
-    <img align="center" src="https://github.com/user-attachments/assets/40440143-cf99-45b3-a2b1-41a0ed3c5d20" alt="portfolio" height="30" />
-  </a>
-
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
