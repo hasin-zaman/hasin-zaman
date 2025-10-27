@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Hasin</h1>
+<h1 align="center">"There are 10 kinds of people in the world: those who understand binary and those who don't"</h1>
 
 [![An image of @hasinzaman's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/hasinzaman)](https://holopin.io/@hasinzaman)
 
