@@ -3,7 +3,7 @@
 [![An image of @hasinzaman's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/hasinzaman)](https://holopin.io/@hasinzaman)
 
 <p align="center">
-  Hasin here. A Full-Stack Developer with my main tech stack as Java, Spring Boot, Node.js, Express, TypeScript, React. I enjoy building scalable and complex projects. I'm constantly learning and love collaborating on exciting projects!
+  Hasin here. A Full-Stack Software Engineer. My main tech stack : Java, Spring Boot, Node.js, Express, TypeScript, React. I enjoy building scalable and complex projects. I'm constantly learning and love collaborating on exciting projects!
 </p>
 
 <h3 align="left">Connect with me:</h3>
